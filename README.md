@@ -15,5 +15,5 @@ I'm a Software Engineer, who is currently studing Computer Science. I'm passiona
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ben_ita66&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=[Ben_ita66](https://github.com/Ben-ita66)&show_icons=true&include_all_commits=true&hide_border=true" alt="Benita's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Ben_ita66](https://github.com/Ben-ita66)&langs_count=8&layout=compact&hide_border=true" alt="Benita's GitHub stats" /> |
 | ------------- | ------------- |
