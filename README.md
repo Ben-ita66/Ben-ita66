@@ -11,9 +11,9 @@ I'm a Software Engineer, who is currently studing Computer Science. I'm passiona
 - 🌱 I’m currently learning Frontend Developer.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://www.linkedin.com/in/nwabueze-benita) and contact me by emailing mailtobenitanwabueze77@gmail.com
+- 📫 You can [view my resume](https://www.linkedin.com/in/nwabueze-benita) and contact me by emailing benitanwabueze77@gmail.com
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=[Ben_ita66](https://github.com/Ben-ita66)&show_icons=true&include_all_commits=true&hide_border=true" alt="Benita's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Ben_ita66](https://github.com/Ben-ita66)&langs_count=8&layout=compact&hide_border=true" alt="Benita's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ben-ita66&show_icons=true&include_all_commits=true&hide_border=true" alt="Benita's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-ita66&langs_count=8&layout=compact&hide_border=true" alt="Benita's GitHub stats" /> |
 | ------------- | ------------- |
