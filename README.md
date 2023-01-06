@@ -11,7 +11,7 @@ I'm a Software Engineer, who is currently studing Computer Science. I'm passiona
 - 🌱 I’m currently learning Frontend Development.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://www.linkedin.com/in/nwabueze-benita) and contact me by emailing benitanwabueze77@gmail.com
+- 📫 You can [view my resume](https://www.linkedin.com/in/nwabueze-benita) and contact me by emailing benitanwabueze72@gmail.com
 
 ---
 
