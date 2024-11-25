@@ -7,8 +7,9 @@ I'm a Software Engineer, who is currently studing Computer Science. I'm passiona
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at ALX Software Engineering Program Class of 2022.
-- 🌱 I’m currently learning Frontend Development.
+- 💡 Fun fact: I'm currently studying at Federal university of Technology.
+- 🌱 I’m currently learning React js.
+- 😊 I'm proficent in the use of html and tailwind css.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://www.linkedin.com/in/nwabueze-benita) and contact me by emailing benitanwabueze72@gmail.com
